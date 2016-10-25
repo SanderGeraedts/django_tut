@@ -1,0 +1,3 @@
+django_tut/settings_secret.py
+.idea/
+*.sqlite3
